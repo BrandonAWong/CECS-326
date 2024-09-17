@@ -1,0 +1,5 @@
+File Copy
+
+Compiling and Running filecopy
+1. gcc filecopy.c -o filecopy
+2. ./filecopy SOURCE DESTINATION

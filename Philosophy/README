@@ -1,0 +1,4 @@
+Compilation
+1. gcc main.c -o sync
+Run
+1. ./sync

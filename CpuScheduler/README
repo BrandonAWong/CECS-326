@@ -1,0 +1,13 @@
+Compilation & Run steps:
+
+fcfs
+1. make fcfs
+2. ./fcfs schedule.txt
+
+priority
+1. make priority
+2. ./priority schedule.txt
+
+rr
+1. make rr
+2. ./rr schedule.txt

@@ -1,0 +1,3 @@
+Compilation & Run Commands:
+  1. gcc paging.c -o paging
+  2. ./paging
